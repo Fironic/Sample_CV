@@ -1,0 +1,22 @@
+
+        body{
+            background-color: #bde7ec ;
+        }
+        
+        hr{
+            height:0px;
+            width: 5%;
+            border-style: dotted none none;
+            border-width: 8px;
+            border-color: grey;       
+            
+        }
+
+        h1{
+            color: rgb(68, 100, 156);
+        }
+
+        h3{
+            color: rgb(103, 77, 176);
+        }
+
